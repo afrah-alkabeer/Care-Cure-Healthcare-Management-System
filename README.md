@@ -1,18 +1,29 @@
-## Care-Cure-Healthcare-Management-System
+# Care & Cure
 
-A healthcare system designed to improve patient care by providing medication reminders, health monitoring, online medical consultations, and pharmacy search services. The system integrates multiple technologies and APIs to enhance accessibility and healthcare efficiency.
+Care & Cure is a software engineering analysis project focused on designing a healthcare system that improves patient access to medical services.
 
-**Key Features:**
+##  Project Overview
+The system is designed to help patients manage their healthcare needs by providing:
+- Medication reminders
+- 24/7 medical consultation access
+- Searching for nearby pharmacies and medicines
+- Health tracking and reporting
 
-User registration and profile management
+##  Project Scope
+This project includes:
+- Business and stakeholder requirements
+- Functional and non-functional requirements
+- System and external interface requirements
+- UML design (Use Case, Context Diagram, Architecture)
 
-Medication reminders and notifications
+##  Key Stakeholders
+- Patients
+- Doctors
+- Pharmacies
+- System Administrators
 
-Online medical consultation
-
-Nearby pharmacy search
-
-Health reports and tracking
+##  Note
+This is a theoretical system analysis and design project (no implementation or coding).
 
 **Project Report:**
 
